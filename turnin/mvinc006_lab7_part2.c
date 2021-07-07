@@ -2,7 +2,7 @@
  *  Partner(s) Name: NA
  *	Lab Section: A01
  *	Assignment: Lab #7  Exercise #2
- *	Youtube Link: 
+ *	Youtube Link: https://youtu.be/Ada6IPLeYAQ
  *  Exercise Description:
  *
  *  Revise exercise 1 with a photoresistor. Take note of MAX and MIN.
